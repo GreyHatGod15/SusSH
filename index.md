@@ -1,32 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to SusSH
 
-You can use the [editor on GitHub](https://github.com/GreyHatGod15/SusSH/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+SusSH is a sussy serious parody of Bash, not exactly though. It can be used as both terminal emulator and a "Reverse" Shell.
+Apparently SusSH is under _**DEVELOPMENT**_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About SusSH
 
-### Markdown
+As you already read above (or atleast what I hope you did), it is a reverse shell tool.
+**PLEASE DO NOT USE THIS TOOL FOR MALICIOUS PURPOSES** (or you can use it on others if you have **EXPLICIT** permission)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Developer: DragsBruh aka GreyHatGod15
+Category:  (Ethical hacking tools) / (shell stuff)
+Sussyness: Ultra
+Age:       unknown
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Github page: [https://github.com/GreyHatGod15/SusSH/](https://github.com/GreyHatGod15/SusSH/).
 
 ### Jekyll Themes
 
